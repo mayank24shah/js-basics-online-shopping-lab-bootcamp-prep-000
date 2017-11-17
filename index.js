@@ -79,7 +79,7 @@ function removeFromCart(itemToRemove) {
 
           }
     }
-    
+
     console.log('That item is not in your cart.')
 }
 
